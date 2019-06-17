@@ -1,4 +1,4 @@
-CentOS中安装Node、MySQL、Apache、VSFTP、MongoDB等软件
+CentOS中安装Node、MySQL、Apache、VSFTP、MongoDB等软件1
 
 ### 一、安装及配置Node环境
 
